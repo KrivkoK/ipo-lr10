@@ -6,20 +6,18 @@
 2. Репозиторий не содержит виртуальную среду
 3. Репозиторий содержит файл с зависимостями
 
-вариант 2
-
 ### Задание 2
 
-Создать программу которая собирает (парсит) информацию  о странах со следующего сайта:
+Создать программу которая собирает (парсит) информацию о преподавателях со следующего сайта : 
 
-[Countries of the World: A Simple Example | Scrape This Site | A public sandbox for learning web scraping](https://www.scrapethissite.com/pages/simple/)
+[Педагогический коллектив - Минский государственный колледж цифровых технологий](https://mgkct.minskedu.gov.by/%D0%BE-%D0%BA%D0%BE%D0%BB%D0%BB%D0%B5%D0%B4%D0%B6%D0%B5/%D0%BF%D0%B5%D0%B4%D0%B0%D0%B3%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9-%D0%BA%D0%BE%D0%BB%D0%BB%D0%B5%D0%BA%D1%82%D0%B8%D0%B2)
 
 И выводит данные на экран в следующем виде:
 
 ```
-1. Country: Andorra; Capital: Andorra la Vella;
-2. Country: Belarus; Capital: Minsk;
-3. Country: Guadeloupe; Capital: Basse-Terre;
+1. Teacher: Амброжи Наталья Михайловна; Post: Преподаватель высшей категории;
+2. Teacher: Бровка Дионисий Сергеевич; Post: Преподаватель без категории;
+3. Teacher: Касперович Светлана Александровна; Post: Преподаватель высшей категории;
 ```
 
 ### Задание 3
